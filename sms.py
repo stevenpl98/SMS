@@ -105,7 +105,7 @@ while True:
     # Make sure you add a new line in the subject
     sub = input("\nSubject: ")
     text = input("Text: ")
-    subj =  "%s\n" % (sub)
+    subj = "%s\n" % (sub)
     msg['Subject'] = subj
 
     # Make sure you also add new lines to your body
