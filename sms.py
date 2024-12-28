@@ -11,9 +11,9 @@ port = 0
 user = input("host or guest?: ")
 
 if user == "host":
-    email = "techguy530@gmail.com"
+    email = "something@gmail.com"
     pas = input("Enter your password: ")
-    sms_gateway = "8572614730@mymetropcs.com"
+    sms_gateway = "0123456789@mymetropcs.com"
     sender = "me"
     smtp = "smtp.gmail.com"
     port = 587
